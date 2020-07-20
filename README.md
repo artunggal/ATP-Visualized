@@ -1,6 +1,6 @@
 # ATP-Visualized
-Arguing Thoughts Regarding ATP Trends via Visualization  
-For better visualization results, go to https://nbviewer.jupyter.org/ and paste link to notebook in.
+Arguing thoughts regarding ATP trends via Visualization  
+For a better viewing experience of visualizations, go to https://nbviewer.jupyter.org/ and paste link to notebook in.
 
 ## Current Notebooks:
 * Notebook on data processing and initial analysis
